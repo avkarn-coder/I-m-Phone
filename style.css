@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(158, 119, 174);
+  color: white;
+}
+h1{
+    font-size: 40px;
+    margin-left: 500px;
+}
+h2{
+    font-size: 30px;
+}
+.q{
+    font-size: 25px;
+}
+
+
+.w{
+    font-size: 15px;
+    margin-left: 300px;
+    color: rgb(187, 255, 0);
+}
+.a{
+    margin-left: 1000px;
+    margin-top: -55px;
+    background-color: rgb(133, 133, 255);
+    color: red;
+}
+.e{
+    color: black;
+}
+
+img{
+    width: 100px;
+    margin-right: 1000px;
+}
+.s{
+    margin-bottom: -85px;
+    margin-left: 110px;
+}
